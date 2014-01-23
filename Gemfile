@@ -43,3 +43,12 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# steer's layout gem
+gem 'steer'
+
+# make forms easier
+gem 'simple_form'
+
+# add in geolocation
+gem 'geocoder'
